@@ -1,0 +1,27 @@
+/* style.css */
+body {
+    font-family: sans-serif, "Times New Roman";
+}
+
+h1 {
+    color:brown;
+}
+
+.sub li {
+    font-size: 24px;
+}
+
+.subhead {
+    font-size: 24px;
+    background-color: goldenrod;
+}
+
+img {
+    height: auto;
+    width: 300px;
+}
+
+p,
+li {
+    font-size: 16px;
+}
